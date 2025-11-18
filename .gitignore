@@ -5,3 +5,5 @@ modeloapp/__pycache__/*
 /apps/products/migrations/*
 /apps/teacher/__pycache__/*
 /apps/teacher/migrations/*
+/apps/teachers/__pycache__/*
+/apps/teachers/migrations/*
